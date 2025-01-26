@@ -1,6 +1,7 @@
+
 Config = {
-    namescript = "wioosv2.0",
-    logoscript = "129005337158338",
-    tacgia = "wioos"
+    namescript = "Test",--Tên Script
+    logoscript = "129005337158338",--ID Logo Script
+    tacgia = "sadas"-- Tên Tác Giả
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
